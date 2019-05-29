@@ -1,11 +1,5 @@
-package main
-
-import "fmt"
+package one
 
 type UseItSomewhereElse struct {
 	Name string
-}
-
-func main() {
-	fmt.Println("Hello World")
 }
